@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PRG_project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PRG_project_jar</output-path>
+    <root id="archive" name="PRG_project.jar">
+      <element id="module-output" name="PRG_project" />
+    </root>
+  </artifact>
+</component>
